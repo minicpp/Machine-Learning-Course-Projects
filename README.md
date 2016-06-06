@@ -9,7 +9,7 @@ The objective of the system is to identify a digit. The digit is composed by a d
 ## Acknowledgement and references
 In project 1, the set of pictures with ground truth are from the link http://web.fsktm.um.edu.my/~cschan/downloads_skin_dataset.html
 
-In project 2, the referred paper is
+In project 2, the referred paper is:
 A. Khotanzad and Y. H. Hong, "Invariant image recognition by Zernike moments," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 12, no. 5, pp. 489-497, May 1990.
 
 The referred source code for Zernike moments are from these links:
