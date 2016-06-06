@@ -1,0 +1,9 @@
+http://web.fsktm.um.edu.my/~cschan/downloads_skin_dataset.html
+
+consider each picture get 10 points, 10000points
+for each setup, get its distribution for rgb yiq hsv (9*2 pictures for each setup, including skin and none skin)
+pictures for number of skin and number of none skin
+
+
+Processing 20/150
+Elapsed time is 24.823376 seconds.

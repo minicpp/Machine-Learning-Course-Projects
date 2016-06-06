@@ -1,0 +1,9 @@
+clear;
+setdemorandstream(391418381)
+CreateDatasetRand(100,0.1,'train0.1.mat');
+CreateDatasetRand(20,0.1,'test0.1.mat');
+CreateDatasetRand(100,0.05,'train0.05.mat');
+CreateDatasetRand(20,0.05,'test0.05.mat');
+CreateDatasetRand(100,0.15,'train0.15.mat');
+CreateDatasetRand(20,0.15,'test0.15.mat');
+fprintf('done\n');
